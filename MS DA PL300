@@ -12,6 +12,8 @@ Before you can create reports, you must first extract data from the various data
 
 This module will focus on the first step of getting the data from the different data sources and importing it into Power BI by using Power Query.
 
+https://learn.microsoft.com/en-us/training/modules/get-data/media/1-data-source-scenario-c.png#lightbox
+
 By the end of this module, you’ll be able to:
 
 Identify and connect to a data source
@@ -22,3 +24,5 @@ Get data from Azure Analysis Services
 Select a storage mode
 Fix performance issues
 Resolve data import errors
+
+
